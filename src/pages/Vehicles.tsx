@@ -45,7 +45,7 @@ export default function Vehicles() {
       mileage: 5000,
       transmission: 'Automatic',
       fuelType: 'Electric',
-      image: 'https://images.unsplash.com/photo-1549413863-8a3a0d7a7c7f?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHw5fHxlbGVjdHJpYyUyMHZlaGljbGVzJTIwY2FyfGVufDB8fHx8MTc0MzU5MzUzOHww&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800',
+      image: 'https://img.freepik.com/free-photo/electric-car-charging-home-clean-energy-filling-technology_35913-2530.jpg?ga=GA1.1.836637702.1743677376&semt=ais_hybrid',
       featured: true
     },
     {
