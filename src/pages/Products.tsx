@@ -89,7 +89,7 @@ export default function Products() {
         id: '9',
         name: '4K Ultra HD Monitor',
         price: 499,
-        image: 'https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHwyfHxtb2Rlcm4lMjBlbGVjdHJvbmljcyUyMHN0b3JlJTIwZGlzcGxheSUyMGl0ZW1zJTIwZ2FkZ2V0c3xlbnwwfHx8fDE3NDM1ODk4NzR8MA&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800',
+        image: 'https://img.freepik.com/free-photo/view-computer-monitor-display_23-2150757537.jpg?ga=GA1.1.836637702.1743677376&semt=ais_hybrid&w=740',
         category: 'Electronics',
         rating: 4.7,
         reviews: 92
