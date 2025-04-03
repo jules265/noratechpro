@@ -116,7 +116,7 @@ export default function Products() {
         id: '12',
         name: 'Professional Welding Machine',
         price: 449,
-        image: 'https://images.unsplash.com/photo-1616113364365-7605e8e6911a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+        image: 'https://img.freepik.com/free-photo/carpenter-cutting-mdf-board-inside-workshop_23-2149451099.jpg?t=st=1743677921~exp=1743681521~hmac=ca51d33d52b63735588d8bef95e3431b0eddb7c73908fa478288e8d5f8ddd281&w=996',
         category: 'Building',
         rating: 4.8,
         reviews: 29
@@ -125,7 +125,7 @@ export default function Products() {
         id: '13',
         name: 'Heavy Duty Concrete Mixer',
         price: 899,
-        image: 'https://images.unsplash.com/photo-1578323851363-cf6c1a243ae9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80',
+        image: 'https://img.freepik.com/free-photo/excavator-digging-ground-day-light_23-2149194766.jpg?t=st=1743677982~exp=1743681582~hmac=34db34d5b8416d8cb382f2843ec8e8a8d62e5bd7ae41715f3c69da2d6fe7804c&w=740',
         category: 'Building',
         rating: 4.9,
         reviews: 17
@@ -134,7 +134,7 @@ export default function Products() {
         id: '14',
         name: 'High-Power Laser Cutter',
         price: 2499,
-        image: 'https://images.unsplash.com/photo-1531513261526-91d0d81ac0f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+        image: 'https://img.freepik.com/premium-photo/cnc-laser-cutting-metal-modern-industrial-technology-small-depth-field-warning-authentic-shooting-challenging-conditions_564276-3324.jpg?w=900',
         category: 'Building',
         rating: 4.7,
         reviews: 8
