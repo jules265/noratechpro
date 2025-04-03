@@ -71,7 +71,7 @@ export default function Products() {
         id: '7',
         name: 'LED Bar Graph Module',
         price: 49.99,
-        image: 'https://img.freepik.com/free-photo/modern-monitor-elegant-table_23-2150706519.jpg?t=st=1743680647~exp=1743684247~hmac=478654745904ef2ca7ed78a5140f677262c8e5ba237360b96e6ddbb77ff83885&w=996',
+        image: 'https://img.freepik.com/premium-photo/dts-led-katana-3d-model_717041-750.jpg?w=996',
         category: 'Electronics',
         rating: 4.2,
         reviews: 48
