@@ -80,7 +80,7 @@ export default function Products() {
         id: '8',
         name: 'Pro Development Kit',
         price: 129.99,
-        image: 'https://img.freepik.com/premium-photo/modern-isometric-programming-desk-illustration_147681-4348.jpg?w=1380',
+        image: 'https://img.freepik.com/free-photo/modern-stationary-collection-arrangement_23-2149309643.jpg?t=st=1743681477~exp=1743685077~hmac=d056da2d322afc5988c25af6b62e8b005b3b09aed325f86f1099dc6fb6824682&w=996',
         category: 'Electronics',
         rating: 4.5,
         reviews: 37
