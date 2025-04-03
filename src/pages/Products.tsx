@@ -53,7 +53,7 @@ export default function Products() {
         id: '5',
         name: 'Office Laptop Setup',
         price: 1399,
-        image: 'https://images.unsplash.com/photo-1496180470114-6ef490f3ff22?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHw4fHxsYXB0b3AlMjBjb21wdXRlciUyMG1hY2Jvb2slMjBwcm9mZXNzaW9uYWwlMjBzZXR1cCUyMG1vZGVybnxlbnwwfHx8fDE3NDM2NjE5NzN8MA&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800',
+        image: 'https://img.freepik.com/free-photo/computer-laptop-desk_23-2147785084.jpg?t=st=1743680563~exp=1743684163~hmac=c306b734d8233e79421825f3eb9d9cdd548c08f8056124936ee2f8493aa1482a&w=900',
         category: 'Laptops',
         rating: 4.7,
         reviews: 103
@@ -71,7 +71,7 @@ export default function Products() {
         id: '7',
         name: 'LED Bar Graph Module',
         price: 49.99,
-        image: 'https://images.unsplash.com/photo-1603694681044-e71c5993d6cd?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHwzfHxtb2Rlcm4lMjBlbGVjdHJvbmljcyUyMHN0b3JlJTIwZGlzcGxheSUyMGl0ZW1zJTIwZ2FkZ2V0c3xlbnwwfHx8fDE3NDM1ODk4NzR8MA&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800',
+        image: 'https://img.freepik.com/free-photo/modern-monitor-elegant-table_23-2150706519.jpg?t=st=1743680647~exp=1743684247~hmac=478654745904ef2ca7ed78a5140f677262c8e5ba237360b96e6ddbb77ff83885&w=996',
         category: 'Electronics',
         rating: 4.2,
         reviews: 48
