@@ -30,18 +30,18 @@ export default function Footer() {
               </li>
               <li className="flex items-center">
                 <Phone className="h-4 w-4 mr-2" />
-                +1 (123) 456-7890
+                +250 0788578289
               </li>
               <li className="flex items-center">
                 <MapPin className="h-4 w-4 mr-2" />
-                123 Business Avenue, Tech City
+                234 Business Avenue, Rubavu City
               </li>
             </ul>
           </div>
           <div>
             <h3 className="text-lg font-semibold mb-4">Follow Us</h3>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-white">
+              <a href="https://facebook.com/nzizajules" className="text-gray-400 hover:text-white">
                 <Facebook className="h-6 w-6" />
               </a>
               <a href="#" className="text-gray-400 hover:text-white">
