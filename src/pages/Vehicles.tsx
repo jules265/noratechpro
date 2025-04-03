@@ -58,7 +58,7 @@ export default function Vehicles() {
       mileage: 25000,
       transmission: 'Automatic',
       fuelType: 'Diesel',
-      image: 'https://images.unsplash.com/photo-1531303435785-3853ba035cda?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHw1fHxtb2Rlcm4lMjBsdXh1cnklMjBjYXJzJTIwZm9yJTIwc2FsZSUyMHNob3dyb29tfGVufDB8fHx8MTc0MzU5MjY1Nnww&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800',
+      image: 'https://img.freepik.com/free-photo/blank-cargo-truck-road_23-2151751338.jpg?t=st=1743680315~exp=1743683915~hmac=c7056341ccd15593236d57e1ff2054c997409adb3d4d24db37067a6102226604&w=1060',
       featured: false
     },
     {
@@ -71,7 +71,7 @@ export default function Vehicles() {
       mileage: 1000,
       transmission: 'Manual',
       fuelType: 'Gasoline',
-      image: 'https://images.unsplash.com/photo-1498994292978-4d6ff757c6dc?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHw1fHxsdXh1cnklMjB2ZWhpY2xlcyUyMHNob3djYXNlJTIwc2hvd3Jvb218ZW58MHx8fHwxNzQzNTkzNDY5fDA&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800',
+      image: 'https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150797048.jpg?t=st=1743680480~exp=1743684080~hmac=81bd8b7aca09517f1116ff40886310a6fade28cd556240fbc97b09534bdb8be3&w=740',
       featured: false
     }
   ];
