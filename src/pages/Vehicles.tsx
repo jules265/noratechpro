@@ -19,7 +19,7 @@ export default function Vehicles() {
       mileage: 0,
       transmission: 'Automatic',
       fuelType: 'Hybrid',
-      image: 'https://images.unsplash.com/photo-1528154291023-a6525fabe5b4?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjB2ZWhpY2xlcyUyMHNob3djYXNlJTIwc2hvd3Jvb218ZW58MHx8fHwxNzQzNTkzNDY5fDA&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800',
+      image: 'https://img.freepik.com/free-photo/white-offroader-jeep-parking_114579-4007.jpg?t=st=1743930797~exp=1743934397~hmac=db2b4e2eef3784b62892a72d47d79d94a15104255023848aafdae2e529d811d5&w=2000',
       featured: true
     },
     {
