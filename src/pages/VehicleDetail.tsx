@@ -53,9 +53,9 @@ export default function VehicleDetail() {
         transmission: 'Automatic',
         fuelType: 'Hybrid',
         images: [
-          'https://images.unsplash.com/photo-1528154291023-a6525fabe5b4?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjB2ZWhpY2xlcyUyMHNob3djYXNlJTIwc2hvd3Jvb218ZW58MHx8fHwxNzQzNTkzNDY5fDA&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800',
-          'https://images.unsplash.com/photo-1512100356356-de1b84283e18?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHwyfHxsdXh1cnklMjB2ZWhpY2xlcyUyMHNob3djYXNlJTIwc2hvd3Jvb218ZW58MHx8fHwxNzQzNTkzNDY5fDA&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800',
-          'https://images.unsplash.com/photo-1549413863-8a3a0d7a7c7f?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHw5fHxlbGVjdHJpYyUyMHZlaGljbGVzJTIwY2FyfGVufDB8fHx8MTc0MzU5MzUzOHww&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800'
+          'https://img.freepik.com/free-photo/white-offroader-jeep-parking_114579-4007.jpg?t=st=1743930797~exp=1743934397~hmac=db2b4e2eef3784b62892a72d47d79d94a15104255023848aafdae2e529d811d5&w=2000',
+          'https://img.freepik.com/free-photo/view-3d-car_23-2150796980.jpg?t=st=1743931054~exp=1743934654~hmac=00282a6890fdf8c6372cb611e0f2f36d9d0a461bd4c1e746848327fc730e17f9&w=2000',
+          'https://img.freepik.com/free-photo/sport-car-with-black-white-autotuning_114579-4075.jpg?t=st=1743931119~exp=1743934719~hmac=a099bd8784b3ce2866891af6af3eb87d64b6f080e4522f60f96f9387973ba85e&w=2000'
         ],
         description: 'Experience unparalleled luxury with this brand new 2023 Luxury Sedan. Featuring cutting-edge technology, premium materials, and exceptional performance, this vehicle represents the pinnacle of automotive engineering.',
         features: [
