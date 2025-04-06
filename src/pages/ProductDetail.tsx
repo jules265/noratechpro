@@ -99,7 +99,7 @@ export default function ProductDetail() {
         price: 1399,
         stock: 20,
         images: [
-          'https://images.unsplash.com/photo-1496180470114-6ef490f3ff22?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHw4fHxsYXB0b3AlMjBjb21wdXRlciUyMG1hY2Jvb2slMjBwcm9mZXNzaW9uYWwlMjBzZXR1cCUyMG1vZGVybnxlbnwwfHx8fDE3NDM2NjE5NzN8MA&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800'
+          'https://img.freepik.com/free-photo/computer-laptop-desk_23-2147785084.jpg?t=st=1743930431~exp=1743934031~hmac=8d4eaaac32714744b03d98477fb5df85cce842851544a484ce1b90dfd7a6c6f0&w=2000'
         ],
         category: 'Laptops',
         specifications: [
