@@ -71,7 +71,7 @@ export default function Vehicles() {
       mileage: 1000,
       transmission: 'Manual',
       fuelType: 'Gasoline',
-      image: 'https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150797048.jpg?t=st=1743680480~exp=1743684080~hmac=81bd8b7aca09517f1116ff40886310a6fade28cd556240fbc97b09534bdb8be3&w=740',
+      image: 'https://img.freepik.com/free-photo/view-3d-car_23-2150796886.jpg?t=st=1743931379~exp=1743934979~hmac=0d06ab6746cbd1b732378006380a80a63d03f8eb356539ca10c4e67181a68ec1&w=2000',
       featured: false
     }
   ];
