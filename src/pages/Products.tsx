@@ -152,7 +152,7 @@ export default function Products() {
         id: '16',
         name: 'Wireless Gaming Mouse',
         price: 79.99,
-        image: 'https://images.unsplash.com/photo-1605773527852-c546a8584ea3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80',
+        image: 'https://img.freepik.com/free-photo/shiny-chrome-car-wheel-reflects-blue-background-modern-transportation-technology-generated-by-artificial-intelligence_24877-80927.jpg?t=st=1743934477~exp=1743938077~hmac=508ec598205517c68c447135f572b7bd5f59e1314ff128342bd43b3248014de7&w=2000',
         category: 'Electronics',
         rating: 4.3,
         reviews: 106
