@@ -214,8 +214,9 @@ export default function VehicleDetail() {
         transmission: 'Manual',
         fuelType: 'Gasoline',
         images: [
-          'https://images.unsplash.com/photo-1498994292978-4d6ff757c6dc?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHw1fHxsdXh1cnklMjB2ZWhpY2xlcyUyMHNob3djYXNlJTIwc2hvd3Jvb218ZW58MHx8fHwxNzQzNTkzNDY5fDA&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800',
-          'https://images.unsplash.com/photo-1528154291023-a6525fabe5b4?ixid=M3w3MjUzNDh8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjB2ZWhpY2xlcyUyMHNob3djYXNlJTIwc2hvd3Jvb218ZW58MHx8fHwxNzQzNTkzNDY5fDA&ixlib=rb-4.0.3&fit=fillmax&h=600&w=800'
+          'https://img.freepik.com/free-photo/view-3d-car_23-2150796886.jpg?t=st=1743931379~exp=1743934979~hmac=0d06ab6746cbd1b732378006380a80a63d03f8eb356539ca10c4e67181a68ec1&w=2000',
+          'https://img.freepik.com/free-photo/sunset-supercar-drift_23-2151955595.jpg?t=st=1743931595~exp=1743935195~hmac=0b836d384b2350d72331df8a786dbc2aa2bc3f289b3b2fbc25460e6d7a0e02c6&w=2000',
+          'https://img.freepik.com/free-photo/view-3d-car_23-2150797018.jpg?t=st=1743931666~exp=1743935266~hmac=6b360e7dc6f4d8023482e258ea27741589895dcab688c4d227a67ba461fdba41&w=2000'
         ],
         description: 'Experience pure driving excitement with this high-performance sports car. With cutting-edge aerodynamics, precision handling, and breathtaking acceleration, this low-mileage 2023 model delivers an unforgettable driving experience.',
         features: [
